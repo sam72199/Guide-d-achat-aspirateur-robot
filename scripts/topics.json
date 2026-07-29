@@ -1,0 +1,52 @@
+{
+  "_comment": "Le générateur choisit le type du jour selon 'schedule' (0=dimanche ... 6=samedi), puis pioche un sujet non encore publié dans la liste correspondante. Ajoutez librement de nouveaux sujets au fil du temps : le pool ne se videra pas vite.",
+
+  "schedule": {
+    "0": "article",
+    "1": "comparatif",
+    "2": "article",
+    "3": "guide",
+    "4": "article",
+    "5": "comparatif",
+    "6": "guide"
+  },
+
+  "comparatif": [
+    "Meilleur aspirateur robot pour petit appartement en 2026",
+    "Aspirateur robot avec station de vidange : comparatif des meilleurs modèles",
+    "Aspirateur robot vs aspirateur balai : lequel choisir en 2026",
+    "Comparatif aspirateurs robots pour poils de chat et de chien",
+    "Meilleur aspirateur robot pas cher en 2026 (moins de 300 €)",
+    "Aspirateur robot laveur vs aspirateur robot classique : le comparatif",
+    "Comparatif des aspirateurs robots compatibles tapis épais",
+    "Meilleur aspirateur robot pour grande maison à plusieurs étages",
+    "Aspirateur robot avec caméra IA : les modèles qui valent le coup en 2026",
+    "Comparatif aspirateurs robots silencieux pour usage de nuit"
+  ],
+
+  "guide": [
+    "Guide d'achat : comment choisir son aspirateur robot sans se tromper",
+    "Navigation LiDAR, gyroscopique ou caméra : comprendre les technologies",
+    "Comment bien entretenir son aspirateur robot pour le faire durer",
+    "Aspirateur robot : quel budget prévoir selon la surface de son logement",
+    "Station de vidange, lavage, séchage : à quoi servent-elles vraiment",
+    "Aspirateur robot et animaux domestiques : le guide complet",
+    "Comment configurer les zones interdites et les cartes de son aspirateur robot",
+    "Aspirateur robot reconditionné : bonne ou mauvaise idée en 2026",
+    "Les pièges marketing à éviter en achetant un aspirateur robot",
+    "Aspirateur robot : que couvre vraiment la garantie constructeur"
+  ],
+
+  "article": [
+    "Pourquoi mon aspirateur robot se bloque toujours au même endroit",
+    "Aspirateur robot qui sent mauvais : les causes et solutions",
+    "Faut-il laisser son aspirateur robot tourner quand on n'est pas chez soi",
+    "Aspirateur robot et escaliers : ce qu'il faut savoir",
+    "Comment nettoyer les brosses de son aspirateur robot correctement",
+    "Aspirateur robot : les nouveautés à surveiller en 2026",
+    "Aspirateur robot bloqué en firmware : que faire",
+    "Les accessoires utiles pour prolonger la vie de son aspirateur robot",
+    "Aspirateur robot et enfants en bas âge : les précautions à prendre",
+    "Combien consomme réellement un aspirateur robot à l'année"
+  ]
+}

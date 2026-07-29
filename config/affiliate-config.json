@@ -1,0 +1,39 @@
+{
+  "_comment": "Remplacez amazonTag par votre identifiant Amazon Partenaires (ex: monsite-21) une fois votre compte créé. Vous pouvez aussi le passer en variable d'environnement AMAZON_TAG dans GitHub Actions pour ne pas le committer en clair.",
+  "amazonTag": "VOTRE-TAG-21",
+  "amazonDomain": "amazon.fr",
+
+  "_comment2": "Produits que le générateur peut recommander/lier. 'asin' est optionnel : si vide, le générateur crée un lien de recherche Amazon sur le nom du produit plutôt qu'un lien produit direct (plus sûr tant que vous n'avez pas vérifié chaque ASIN).",
+  "products": [
+    {
+      "name": "aspirateur robot entrée de gamme",
+      "asin": "",
+      "priceRange": "150-300 €",
+      "category": "entree-de-gamme"
+    },
+    {
+      "name": "aspirateur robot avec navigation LiDAR",
+      "asin": "",
+      "priceRange": "350-550 €",
+      "category": "milieu-de-gamme"
+    },
+    {
+      "name": "aspirateur robot avec station de vidange",
+      "asin": "",
+      "priceRange": "500-900 €",
+      "category": "station-vidange"
+    },
+    {
+      "name": "aspirateur robot haut de gamme avec lavage automatique",
+      "asin": "",
+      "priceRange": "900-1300 €",
+      "category": "haut-de-gamme"
+    },
+    {
+      "name": "aspirateur robot spécial poils d'animaux",
+      "asin": "",
+      "priceRange": "400-800 €",
+      "category": "animaux"
+    }
+  ]
+}

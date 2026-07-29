@@ -1,0 +1,12 @@
+{
+  "name": "aspiro-comparatif-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Générateur automatique d'articles SEO pour le blog Aspiro Comparatif",
+  "scripts": {
+    "generate": "node scripts/generate-article.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
